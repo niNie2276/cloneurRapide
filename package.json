@@ -1,0 +1,16 @@
+{
+  "name": "fast-git-clone",
+  "version": "1.0.0",
+  "description": "outil pour cloner les repo facilement",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./src/main.js"
+  },
+  "author": "V. PORQUEZ",
+  "license": "ISC",
+  "dependencies": {
+    "git-pull-or-clone": "^2.0.1",
+    "inquirer": "^8.2.0"
+  }
+}
